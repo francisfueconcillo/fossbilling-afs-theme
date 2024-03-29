@@ -1,0 +1,22 @@
+{
+  "entrypoints": {
+    "huraga": {
+      "css": [
+        "/themes/huraga/build/css/huraga-bundle.28747a.css"
+      ],
+      "js": [
+        "/themes/huraga/build/js/huraga-bundle.3d45aa.js"
+      ]
+    },
+    "markdown": {
+      "css": [
+        "/themes/huraga/build/css/markdown-bundle.07303b.css"
+      ]
+    }
+  },
+  "integrity": {
+    "/themes/huraga/build/css/huraga-bundle.28747a.css": "sha384-kSwaDvkOETBw1dxWb6Obmrehv6YpSVeXqhuxxyKk2oS7UWsEMFHOOhnlnqMP/ywU",
+    "/themes/huraga/build/js/huraga-bundle.3d45aa.js": "sha384-ctm8kV01VfNl1avw3hTJ2bLQ5ApgTMDL7oJZlKWrdCUv11PaEI9k/70A0NPhGayY",
+    "/themes/huraga/build/css/markdown-bundle.07303b.css": "sha384-4fqKnLaXsTCSuNWICOAIjChav0/7d8UrPXRS6NGAB91aNOyQRltoZUK4vXPKaOer"
+  }
+}
